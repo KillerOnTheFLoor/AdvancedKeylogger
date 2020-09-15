@@ -11,11 +11,3 @@
   
 Для выхода из Кейлогера используйте клавишу "ESC"
 
-Необходимые модули:
--pywin32
--pynput
--scipy
--cryptography
--requerst
--pillow
--sounddevice
